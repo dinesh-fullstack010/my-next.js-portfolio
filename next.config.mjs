@@ -2,7 +2,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/dinesh-next-portfolio",
+  basePath: "/my-next.js-portfolio",
   trailingSlash: true,
   images: { unoptimized: true },
   allowedDevOrigins: ["terminal.local"],
